@@ -41,7 +41,24 @@ export default function App() {
     'https://www.youtube.com/watch?v=THgySrS02wM',
     'https://www.youtube.com/watch?v=lrTeLurUybQ',
     'https://www.youtube.com/watch?v=69xc-OMHt84',
-    'https://www.youtube.com/watch?v=bwskO02Bj7k'
+    'https://www.youtube.com/watch?v=bwskO02Bj7k',
+    'https://www.youtube.com/watch?v=z6EchXyieos',
+    'https://www.youtube.com/watch?v=6nE8ifrCB2U',
+    'https://www.youtube.com/watch?v=sGxw7ipTrq8',
+    'https://www.youtube.com/watch?v=mviuEvMyTRE',
+    'https://www.youtube.com/watch?v=36TZL3VrFv4',
+    'https://www.youtube.com/watch?v=vF22WVMDFnk',
+    'https://www.youtube.com/watch?v=Q_DL9ZPEl4k',
+    'https://www.youtube.com/watch?v=MGkWSAnoDOI',
+    'https://www.youtube.com/watch?v=DieDbDmNXE4',
+    'https://www.youtube.com/watch?v=NZzXzymUgEg',
+    'https://www.youtube.com/watch?v=Wl9oUBgFk6Y',
+    'https://www.youtube.com/watch?v=LPL03Goe8lg',
+    'https://www.youtube.com/watch?v=um0ETkJABmI',
+    'https://www.youtube.com/watch?v=dQ5BAupEKvw',
+    'https://www.youtube.com/watch?v=KQdCKM3_5EY',
+    'https://www.youtube.com/watch?v=NYek5xWcCEA',
+    'https://www.youtube.com/watch?v=E4ojkkpYRXg'
 
   ];
 
